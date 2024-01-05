@@ -8,3 +8,4 @@
 ### 1- Enumerate all the subdomains using subfiner, asset finder, amass ....
 ### 2- asset finder, amass | tee ALL-sub-domains.txt
 ### 3- nuclei –l livesubdomains.txt -t /nuclei-templates-directory/subdomain-takeover
+[open link](https://mohamed-gamal-mg.github.io/Deep-dive-into-its-programming/Subdomain%20takeovers.html)
